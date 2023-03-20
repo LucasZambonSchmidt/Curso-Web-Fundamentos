@@ -23,6 +23,9 @@
     border-radius: 5%;
 }
 
+.linkbar:hover {
+    background-color: rgb(99, 98, 98);
+}
 
 header {
     height: 900px;
